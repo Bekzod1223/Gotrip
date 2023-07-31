@@ -1,0 +1,16 @@
+@media(max-width: 1400px) {
+  .container {
+    max-width: 1140px;
+  }
+  .container__before {
+    max-width: 1140px;
+    flex-wrap: wrap;
+  }
+}
+@media(max-width: 1200px) {}
+@media(max-width: 1024px) {}
+@media(max-width: 981px) {}
+@media(max-width: 768px) {}
+@media(max-width: 576px) {}
+@media(max-width: 480px) {}
+@media(max-width: 320px) {}
